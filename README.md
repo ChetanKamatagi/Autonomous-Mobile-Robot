@@ -38,13 +38,9 @@ Our AMR project integrates cutting-edge components and sophisticated software to
 
 ## 📷 Gallery
 
-![AMR Design](path_to_your_image_1.jpg)
-![Simulation Environment](path_to_your_image_2.jpg)
-![Real-World Testing](path_to_your_image_3.jpg)
+<img src="https://github.com/ChetanKamatagi/Autonomous-Mobile-Robot/blob/main/AMR_IMG.jpg" alt="AMR Design" width="500" />
 
-## 📚 Documentation
-
-Detailed documentation for setting up and running the AMR project can be found in the [Documentation](docs/documentation.md) section.
+## Check out our [YouTube video](https://www.youtube.com/watch?v=gZZxsdtzOAc) for more information.
 
 ## 🤝 Acknowledgements
 
